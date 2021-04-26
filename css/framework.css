@@ -12341,7 +12341,7 @@ input[type=radio] + label:before {
 }
 
 .color-gray {
-  color: #d1dce6;
+  color: #a0a8af;
 }
 .color-gray.link:hover {
   color: #8faac2;
